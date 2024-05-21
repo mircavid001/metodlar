@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metodlar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bae393fd64aea0a982b8941f517e2b7bcaea0b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2370b9afa376034d880205bbd910abb532d8ca2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("metodlar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metodlar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

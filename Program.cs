@@ -21,8 +21,18 @@
 
 
 
-int topla(int num1, int num2)
+//int topla(int num1, int num2)
+//{
+//    int res = num1 + num2;
+//    return res;
+//}
+
+
+for (int i = 0; i <= 100; i++)
 {
-    int res = num1 + num2;
-    return res;
+    if (i == 40 || i == 88)
+    {
+        continue;
+    }
+    Console.WriteLine(i);
 }

@@ -27,12 +27,13 @@
 //    return res;
 //}
 
-
-for (int i = 0; i <= 100; i++)
+Console.WriteLine("plise enter your name");
+string name = Console.ReadLine();
+if (string.IsNullOrWhiteSpace(name))
 {
-    if (i == 40 || i == 88)
-    {
-        continue;
-    }
-    Console.WriteLine(i);
+    Console.WriteLine("enter your name correctly");
+}
+else
+{
+    Console.WriteLine(name);
 }
